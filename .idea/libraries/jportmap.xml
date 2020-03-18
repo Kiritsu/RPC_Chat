@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jportmap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jportmap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jrpcgen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/oncrpc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
